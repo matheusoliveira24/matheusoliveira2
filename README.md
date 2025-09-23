@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/matheusoliveira24/matheusoliveirasilva/output/snake.svg" alt="Snake animation" />
